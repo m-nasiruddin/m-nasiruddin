@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ...
 
-Syntax highlighting
+## More about me
 ```java
 String mona = developer {
     about {
@@ -12,7 +12,7 @@ String mona = developer {
         company = First Security Islami Bank Limited
         role = Developer
     }
-    tech("Java", "C#")
+    like ("Python", "Java", "C#")
     links {
         twitter = "@moha_nasiruddin"
     }
