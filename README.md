@@ -4,18 +4,20 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ...
 
-val antonarhipov = developer {
+Syntax highlighting
+```java
+String mona = developer {
     about {
-        name = "Anton Arhipov"
-        company = JetBrains
-        role = Developer_Advocate
+        name = "Mohammad Nasiruddin"
+        company = First Security Islami Bank Limited
+        role = Developer
     }
-    tech("Kotlin", "Java", "Spring")
+    tech("Java", "C#")
     links {
-        twitter = "@antonarhipov"
-        youtube = "youtube.com/kotlin"
+        twitter = "@moha_nasiruddin"
     }
 }
+```
 
 <!---
 m-nasiruddin/m-nasiruddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
