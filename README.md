@@ -8,7 +8,7 @@
 ```java
 public class Main {
     void about() {
-        String sudo = "Mona";
+        String sudo_name = "Mona";
         String[] likes = {"Python", "Java", "C#", "SQL"};
     }
     void contact() {
