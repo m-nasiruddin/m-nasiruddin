@@ -1,20 +1,22 @@
 - 👋 Hi, I’m Mohammad Nasiruddin
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning PHP, and AngularJS.
+- 👀 I’m interested in software development and quality assurance.
+- 🌱 Currently, I’m learning PHP and AngularJS.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me ...
+- 📫 How to reach me?
 
 ## More about me
 ```java
-String mona = developer {
-    about {
-        name = "Mohammad Nasiruddin"
-        company = First Security Islami Bank Limited
-        role = Developer
+public class Main {
+    void about() {
+        String sudo = "Mona";
+        String[] likes = {"Python", "Java", "C#", "SQL"};
     }
-    like ("Python", "Java", "C#")
-    links {
-        twitter = "@moha_nasiruddin"
+    void contact() {
+        String linkedin = "linkedin.com/in/nasiruddinmohammad";
+        String scholar = "https://scholar.google.com/citations?user=GjagO0gAAAAJ";
+    }
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
     }
 }
 ```
