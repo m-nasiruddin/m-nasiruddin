@@ -13,7 +13,7 @@ public class Main {
     }
     void contact() {
         String linkedin = "linkedin.com/in/nasiruddinmohammad";
-        String scholar = "https://scholar.google.com/citations?user=GjagO0gAAAAJ";
+        String google_scholar = "https://scholar.google.com/citations?user=GjagO0gAAAAJ";
     }
     public static void main(String[] args) {
         System.out.println("Hello world!");
