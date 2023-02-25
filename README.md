@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammad Nasiruddin
+- 👋 Hi, I’m Mohammad Nasiruddin, aka Mona (in short).
 - 👀 I’m interested in software development and quality assurance.
-- 🌱 Currently, I’m learning PHP and AngularJS.
+- 🌱 Currently, I’m practicing Software Design Principles, Design Patterns, and Design Architecture.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me?
 
