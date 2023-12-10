@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mohammad Nasiruddin, aka Mona (in short).
+- 👋 Hi, I’m Mohammad Nasiruddin, aka MONA (in short).
 - 👀 I’m interested in software development and quality assurance.
 - 🌱 Currently, I’m practicing Software Design Principles, Design Patterns, and Design Architecture.
-- 💞️ I’m looking to collaborate on open source projects.
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me?
 
 ## More about me
